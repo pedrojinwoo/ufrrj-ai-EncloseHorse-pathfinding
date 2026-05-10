@@ -1,15 +1,11 @@
 entice-resolvido.txt:
-15 15
 https://enclose.horse/play/2026-03-09 
 
 entice.txt:
-15 15
 https://enclose.horse/play/2026-03-09
 
 geometry-resolvido.txt:
-30 30
 https://enclose.horse/play/gvACia 
 
 geometry.txt:
-30 30
 https://enclose.horse/play/gvACia 
