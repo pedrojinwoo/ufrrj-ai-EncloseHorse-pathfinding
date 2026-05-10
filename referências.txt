@@ -9,3 +9,6 @@ https://enclose.horse/play/gvACia
 
 geometry.txt:
 https://enclose.horse/play/gvACia 
+
+closedEnv.txt:
+Pontuação total: (C) + 1*(M) + 1*(A) + 1*(J)  + 5*( ) = 1+ 10 -5 + 3 + 5 = 13
